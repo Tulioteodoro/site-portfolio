@@ -23,3 +23,30 @@ Nesse curso você vai dominar todo **git** e **github**.
 [Instagram](link do intstagram)
 
 [Youtube] (link do youtube)
+
+>Blockquote, utilizado para destar a área.
+>
+>Segunda área
+
+
+**Comando para rodar o projeto**
+
+````
+np start-ne
+````
+
+
+**Exemplo de uso do script especificando linguagem:**
+```js
+function showName(name){
+       return 'Bem vindo: ' + name';
+}
+```
+
+**Uso do componente HTML**
+```html
+<h1>
+       Titulo do projeto
+       <span>Curso Git</span>
+</h1>
+```
