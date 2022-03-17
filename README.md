@@ -4,6 +4,8 @@
 
 Nesse curso você vai dominar todo **git** e **github**.
 
+- [x] Login com facebok.
+- [ ] Site responsivo
  ## Módulos:
 * Começando com GIT.
 * Aprendendo sobre branches.
@@ -24,6 +26,8 @@ Nesse curso você vai dominar todo **git** e **github**.
 
 [Youtube] (link do youtube)
 
+
+>
 >Blockquote, utilizado para destar a área.
 >
 >Segunda área
